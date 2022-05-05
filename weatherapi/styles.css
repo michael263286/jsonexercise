@@ -1,0 +1,35 @@
+#weather-form{
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-around;
+}
+
+
+.temp{
+  display: flex;
+  justify-content: center;
+  font-family:'Exo 2', sans-serif;
+  font-size:500%;
+}
+
+.clouds{
+  display:flex;
+  justify-content: center;
+  font-family: 'Exo 2', sans-serif;
+  font-size: large;
+}
+
+html{
+  background-image:url(https://www.teahub.io/photos/full/96-964582_material-design-wallpapers-desktop-material-design-background-weather.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.city-name{
+  display:flex;
+  justify-content: center;
+  font-family: 'Exo 2', sans-serif;
+  font-size: large;
+
+}
