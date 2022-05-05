@@ -33,3 +33,12 @@ html{
   font-size: large;
 
 }
+
+label{
+  font-family:'Exo 2', sans-serif ;
+}
+
+button{
+  border-radius: 100px;
+  font-family:'Exo 2', sans-serif ;
+}
